@@ -9,6 +9,7 @@
 - 🎓 Técnico em Informática pela [ETE Fernando Prestes](https://etecfernandoprestes.cps.sp.gov.br/)
 - 🎓 Técnico em Mecatrônica pelo Liceu Pedro II
 - 🎓 Aprendiz em Mecânica de Autos pelo [Senai "Gaspar Ricardo Junior"](https://sp.senai.br/unidade/sorocaba/)
+- 🚀 [Meu Portfólio](https://github.com/paulo84delgado)
 
 ## Onde me encontrar:
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/paulo84delgado)
@@ -17,9 +18,7 @@
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/paulo84delgado)
 
 ### 📊 Estatísticas no GitHub
-
 ![paulo84delgado's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dracula)
-- 🚀 [Meu Portfólio](https://github.com/paulo84delgado)
 
 ## 🛠️ Ferramentas que Utilizo
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
