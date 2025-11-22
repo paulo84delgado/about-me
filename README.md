@@ -2,6 +2,13 @@
 
 ✨ **Aprendiz** na [DIO](https://dio.me) em Bootcamp - Java & QA.
 
+### SOBRE
+> Tenho 41 anos e atuo na indústria na área de engenharia de produto gerenciando dados de produtos, desde a fase inicial até o término de seu ciclo de vida.
+> Atualmente estou começando a estudar desenvolvimento WEB e aprender outras linguagens de programação devido ao interesse em migrar de área.
+> Sobre minha ideologia política, já aviso que não sou de esquerda nem de direita, me tornei Libertário após ler as [Seis Lições de Mises](https://www.hayekcollege.com/sites/default/files/ebooks/As%20Seis%20Licoes%20-%20Ludwig%20Von%20Mises.pdf)
+> Falando dos meus hobbies, eu gosto de viajar, ouvir rock n' roll, assistir animes, maratonar séries, filmes, jogar videogame, tênis de mesa, futebol, etc ...
+   <i>(Votorantim, SP - Brasil)</i>
+
 🏢 **Atuação Profissional**
 - 🚀 Atuo como Engenheiro PDM na [Flex](https://flex.com/)
 - 🎓 Bacharel em Engenharia de Controle e Automação pela [Faculdade Pitágoras](https://www.pitagoras.com.br/)
@@ -35,13 +42,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## Sistemas Operacionais
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
 ### 🤓 Estudando atualmente:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
 
 ### 📌 Projetos em Destaque [Em Construção] 👷
 
