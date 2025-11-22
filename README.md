@@ -4,7 +4,7 @@
   
 ✨ **Aprendiz** na [DIO](https://dio.me) em Bootcamp - Java & QA.
 
-### Sobre mim
+### 🙋‍♂️ Sobre mim
 > Tenho 41 anos e atuo na indústria na área de engenharia de produto gerenciando dados de produtos, desde a fase inicial até o término de seu ciclo de vida.
 > Atualmente estou começando a estudar desenvolvimento WEB e aprender outras linguagens de programação devido ao interesse em migrar de área.
 > Sobre minha ideologia política, já aviso que não sou de esquerda nem de direita, me tornei Libertário após ler as [Seis Lições de Mises](https://www.hayekcollege.com/sites/default/files/ebooks/As%20Seis%20Licoes%20-%20Ludwig%20Von%20Mises.pdf). 
@@ -21,7 +21,7 @@
 - 🎓 Aprendiz em Mecânica de Autos pelo [Senai "Gaspar Ricardo Junior"](https://sp.senai.br/unidade/sorocaba/)
 - 🚀 [Meu Portfólio](https://github.com/paulo84delgado)
 
-## Conecte-se comigo:
+## 📳 Conecte-se comigo:
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/paulo84delgado)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo84delgado/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paulodelgadooliveira)
