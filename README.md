@@ -1,5 +1,7 @@
 ### Olá, eu sou Paulo Delgado (paulo84delgado) 👋
-
+<div>
+<img align="center" alt="working-ana" height=325" width= 575" src="https://user-images.githubusercontent.com/paulo84delgado_profile_image.png" />
+  
 ✨ **Aprendiz** na [DIO](https://dio.me) em Bootcamp - Java & QA.
 
 ### Sobre mim
