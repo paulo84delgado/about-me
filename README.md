@@ -55,6 +55,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## Soft Skills
+![Organizado](https://img.shields.io/badge/Organizado-black) ![Produtivo](https://img.shields.io/badge/Produtivo-darkblue)  ![Próativo](https://img.shields.io/badge/Proativo-black) ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-darkblue) ![Resolução de Problemas](https://img.shields.io/badge/Resolução%20de%20Problemas-black) ![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-darkblue) 
+
 ### 📌 Projetos em Destaque [Em Construção] 👷
 
 
