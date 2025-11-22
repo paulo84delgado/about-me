@@ -11,11 +11,13 @@
 - 🎓 Aprendiz em Mecânica de Autos pelo [Senai "Gaspar Ricardo Junior"](https://sp.senai.br/unidade/sorocaba/)
 - 🚀 [Meu Portfólio](https://github.com/paulo84delgado)
 
-## Onde me encontrar:
+## Conecte-se comigo:
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/paulo84delgado)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo84delgado/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo84delgado/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/paulo84delgado)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:paulo84delgado@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+15+997643128) 
 
 ### 📊 Estatísticas no GitHub
 ![paulo84delgado's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dracula)
