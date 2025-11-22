@@ -10,7 +10,8 @@
 - 🎓 Técnico em Mecatrônica pelo Liceu Pedro II
 - 🎓 Aprendiz em Mecânica de Autos pelo [Senai "Gaspar Ricardo Junior"](https://sp.senai.br/unidade/sorocaba/)
 
-## Redes Sociais:
+## Onde me encontrar:
+[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/paulo84delgado)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo84delgado/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo84delgado/)
 
