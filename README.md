@@ -10,6 +10,12 @@
 - 🎓 Técnico em Mecatrônica pelo Liceu Pedro II
 - 🎓 Aprendiz em Mecânica de Autos pelo [Senai "Gaspar Ricardo Junior"](https://sp.senai.br/unidade/sorocaba/)
 
+## Redes Sociais:
+<div align="left">
+  <a href="https://www.instagram.com/paulo84delgado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+  </a>
+</div>
+
 ### 📊 Estatísticas no GitHub
 
 ![paulo84delgado's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dracula)
