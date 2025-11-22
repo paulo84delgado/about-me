@@ -3,6 +3,7 @@
 <img align="center" alt="working-paulo" height=225" width= 255" src="https://github.com/paulo84delgado/about-me/blob/main/paulo84delgado_profile_image.png" />
   
 ✨ **Aprendiz** na [DIO](https://dio.me) em Bootcamp - Java & QA.
+🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br><br>
 
 ### 🙋‍♂️ Sobre mim
 > Tenho 41 anos e atuo na indústria na área de engenharia de produto gerenciando dados de produtos, desde a fase inicial até o término de seu ciclo de vida.
