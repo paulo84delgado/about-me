@@ -10,27 +10,21 @@
 - 🎓 Técnico em Mecatrônica pelo Liceu Pedro II
 - 🎓 Aprendiz em Mecânica de Autos pelo [Senai "Gaspar Ricardo Junior"](https://sp.senai.br/unidade/sorocaba/)
 
-
 ### 📊 Estatísticas no GitHub
 
 ![paulo84delgado's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dracula)
 
-
-### 📌 Projetos em Destaque [Em Construção] 👷
-
-
-
 ## 🛠️ Ferramentas que Utilizo
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
 
 ## 🔠 Linguagens
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📌 Projetos em Destaque [Em Construção] 👷
 
 
 
