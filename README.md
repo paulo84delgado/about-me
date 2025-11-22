@@ -7,7 +7,8 @@
 > Atualmente estou começando a estudar desenvolvimento WEB e aprender outras linguagens de programação devido ao interesse em migrar de área.
 > Sobre minha ideologia política, já aviso que não sou de esquerda nem de direita, me tornei Libertário após ler as [Seis Lições de Mises](https://www.hayekcollege.com/sites/default/files/ebooks/As%20Seis%20Licoes%20-%20Ludwig%20Von%20Mises.pdf)
 > Falando dos meus hobbies, eu gosto de viajar, ouvir rock n' roll, assistir animes, maratonar séries, filmes, jogar videogame, tênis de mesa, futebol, etc ...
-   <i>(Votorantim, SP - Brasil)</i>
+
+<i>(Votorantim, SP - Brasil)</i>
 
 🏢 **Atuação Profissional**
 - 🚀 Atuo como Engenheiro PDM na [Flex](https://flex.com/)
