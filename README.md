@@ -27,6 +27,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo84delgado/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paulodelgadooliveira)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo84delgado/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo84delgado/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/paulo84delgado)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:paulo84delgado@gmail.com)](mailto:paulo84delgado@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/users/paulo84delgado)
