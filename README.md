@@ -18,7 +18,7 @@
 
 ---
 
-✨ **Aprendendo** na [DIO](https://dio.me).
+✨ **Aluno** na [DIO](https://dio.me).
 <br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br><br>
 
 🏢 **Atuação Profissional**
