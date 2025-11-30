@@ -12,7 +12,11 @@
 
 <i>(Votorantim, SP - Brasil)</i>
 
+---
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulo84delgado" alt="paulo84delgado" /></a> </p>
+
+---
 
 ✨ **Aprendiz** na [DIO](https://dio.me) em Bootcamp - Java & QA.
 <br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br><br>
@@ -26,6 +30,8 @@
 - 🎓 Aprendiz em Mecânica de Autos pelo [Senai "Gaspar Ricardo Junior"](https://sp.senai.br/unidade/sorocaba/)
 - 🚀 [Meu Portfólio](https://github.com/paulo84delgado)
 
+---
+
 ## 🔗 Conecte-se comigo:
 [![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/paulo84delgado)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo84delgado/)
@@ -37,6 +43,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515997643128)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/paulo84delgado)
 
+---
+
 ## 📊 Estatísticas no GitHub
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -46,11 +54,20 @@
   <img src="https://streak-stats.demolab.com?user=paulo84delgado&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
+---
+
+## 📚 Projetos e estudos em andamento
+🔸 Curso Bootcamp Java & QA Developer – Digital Innovation One;<br>
+🔸 English – SEDA College; 
+
+---
 
 ## 🛠️ Ferramentas que Utilizo
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 🔠 Linguagens
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -59,8 +76,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+---
+
 ## 💻 Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+---
 
 ## 🤓 Estudando atualmente:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -68,8 +89,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+---
+
 ## 🤔 Soft Skills
 ![Organizado](https://img.shields.io/badge/Organizado-black) ![Produtivo](https://img.shields.io/badge/Produtivo-darkblue)  ![Próativo](https://img.shields.io/badge/Próativo-black) ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-darkblue) ![Resolução de Problemas](https://img.shields.io/badge/Resolução%20de%20Problemas-black) ![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-darkblue) 
+
+---
 
 ## 🤝 Minhas Contribuições
 
