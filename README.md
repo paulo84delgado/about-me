@@ -2,7 +2,6 @@
 
 <div>
 <img align="center" alt="working-paulo" height=225" width= 255" src="https://github.com/paulo84delgado/about-me/blob/main/paulo84delgado_profile_image.png" />
-  
 
 ## 🙋‍♂️ Sobre mim (Paulo Delgado) 👋
 > Tenho 41 anos e atuo na indústria na área de engenharia de produto gerenciando dados de produtos, desde a fase inicial até o término de seu ciclo de vida.
@@ -14,12 +13,8 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulo84delgado" alt="paulo84delgado" /></a> </p>
-
----
-
 ✨ **Aluno** na [DIO](https://dio.me).
-<br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br><br>
+<br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br>
 
 🏢 **Atuação Profissional**
 - 🚀 Atuo como Engenheiro PDM na [Flex](https://flex.com/)
@@ -45,7 +40,8 @@
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 📊 Estatísticas e Desempenho no GitHub
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulo84delgado" alt="paulo84delgado" /></a> </p>
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo84delgado&layout=compact&langs_count=16&theme=dark"/>
