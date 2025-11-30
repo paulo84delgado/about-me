@@ -66,7 +66,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Intellij](https://img.shields.io/badge/Intellij-F7DF1E?style=for-the-badge&logointellij&logoColor=black)
+![Intellij](https://img.shields.io/badge/Intellij-CC342D?style=for-the-badge&logointellij&logoColor=black)
 
 ---
 
