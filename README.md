@@ -41,7 +41,9 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo84delgado&layout=compact&langs_count=16&theme=dark"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulo84delgado&" alt="paulo84delgado"/>
 </div>
+
 
 ## 🛠️ Ferramentas que Utilizo
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
