@@ -18,7 +18,7 @@
 
 ---
 
-✨ **Aprendiz** na [DIO](https://dio.me) em Bootcamp - Java & QA.
+✨ **Aprendendo** na [DIO](https://dio.me).
 <br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br><br>
 
 🏢 **Atuação Profissional**
