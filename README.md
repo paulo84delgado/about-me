@@ -12,6 +12,8 @@
 
 <i>(Votorantim, SP - Brasil)</i>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulo84delgado" alt="paulo84delgado" /></a> </p>
+
 ✨ **Aprendiz** na [DIO](https://dio.me) em Bootcamp - Java & QA.
 <br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br><br>
 
