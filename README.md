@@ -1,17 +1,19 @@
-### Olá, eu sou Paulo Delgado (paulo84delgado) 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0E8AE6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+
 <div>
 <img align="center" alt="working-paulo" height=225" width= 255" src="https://github.com/paulo84delgado/about-me/blob/main/paulo84delgado_profile_image.png" />
   
-✨ **Aprendiz** na [DIO](https://dio.me) em Bootcamp - Java & QA.
-<br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br><br>
 
-### 🙋‍♂️ Sobre mim
+## 🙋‍♂️ Sobre mim (Paulo Delgado) 👋
 > Tenho 41 anos e atuo na indústria na área de engenharia de produto gerenciando dados de produtos, desde a fase inicial até o término de seu ciclo de vida.
 > Atualmente estou começando a estudar desenvolvimento WEB e aprender outras linguagens de programação devido ao interesse em migrar de área.
 > Sobre minha ideologia política, já aviso que não sou de esquerda nem de direita, me tornei Libertário após ler as [Seis Lições de Mises](https://www.hayekcollege.com/sites/default/files/ebooks/As%20Seis%20Licoes%20-%20Ludwig%20Von%20Mises.pdf). 
 > Falando dos meus hobbies, eu gosto de viajar, ouvir rock n' roll, assistir animes, maratonar séries, filmes, jogar videogame, tênis de mesa, futebol, etc ...
 
 <i>(Votorantim, SP - Brasil)</i>
+
+✨ **Aprendiz** na [DIO](https://dio.me) em Bootcamp - Java & QA.
+<br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br><br>
 
 🏢 **Atuação Profissional**
 - 🚀 Atuo como Engenheiro PDM na [Flex](https://flex.com/)
@@ -33,7 +35,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515997643128)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/paulo84delgado)
 
-### 📊 Estatísticas no GitHub
+## 📊 Estatísticas no GitHub
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo84delgado&layout=compact&langs_count=16&theme=dark"/>
@@ -54,7 +56,7 @@
 ## 💻 Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-### 🤓 Estudando atualmente:
+## 🤓 Estudando atualmente:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -63,8 +65,10 @@
 ## 🤔 Soft Skills
 ![Organizado](https://img.shields.io/badge/Organizado-black) ![Produtivo](https://img.shields.io/badge/Produtivo-darkblue)  ![Próativo](https://img.shields.io/badge/Próativo-black) ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-darkblue) ![Resolução de Problemas](https://img.shields.io/badge/Resolução%20de%20Problemas-black) ![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-darkblue) 
 
-### 📌 Projetos em Destaque [Em Construção] 👷
+## 🤝 Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=4ldenis&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/paulo84delgado/dio-lab-open-source.git)
 
+## 📌 Projetos em Destaque [Em Construção] 👷
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An4PDM/An4PDM/output/github-contribution-grid-snake-dark.svg">
