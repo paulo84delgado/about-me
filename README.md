@@ -41,14 +41,9 @@
 ---
 
 ## 📊 Estatísticas e Desempenho no GitHub
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulo84delgado" alt="paulo84delgado" /></a> </p>
-<div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo84delgado&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=paulo84delgado&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+
 
 ---
 
