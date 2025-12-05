@@ -28,16 +28,53 @@
 ---
 
 ## 🔗 Conecte-se comigo:
-[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/paulo84delgado)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo84delgado/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paulodelgadooliveira)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo84delgado/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/paulo84delgado)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:paulo84delgado@gmail.com)](mailto:paulo84delgado@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/users/paulo84delgado)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515997643128)
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/paulo84delgado)
-
+<p align="center">
+  <a href="https://web.dio.me/users/paulo84delgado">
+    <img src="https://github.com/paulo84delgado/about-me/blob/main/dio.png" alt="dio" width="50" height="50/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.facebook.com/paulodelgadooliveira">
+    <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="50" height="50/>
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:paulo84delgado@gmail.com">
+    <img src="https://github.com/paulo84delgado/about-me/blob/main/facebook.png" alt="facebook" width="50" height="50/>
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:paulo84delgado@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="50" height="50/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/paulo84delgado">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="50" height="50/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulo84delgado/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" height="50/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://t.me/paulo84delgado">
+    <img src="https://github.com/paulo84delgado/about-me/blob/main/telegram.png" alt="telegram" width="50" height="50/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://wa.me/5515997643128">
+    <img src="https://github.com/paulo84delgado/about-me/blob/main/whatsapp.jpg" alt="whatsapp" width="50" height="50/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://x.com/paulo84delgado">
+    <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="50" height="50/>
+  </a>
+</p>
+       
+   
 ---
 
 ## 📊 Estatísticas e Desempenho no GitHub
