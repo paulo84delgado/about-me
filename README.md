@@ -54,10 +54,78 @@
 ---
 
 ## 🛠️ Ferramentas que Utilizo
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Intellij](https://img.shields.io/badge/Intellij-CC342D?style=for-the-badge&logointellij&logoColor=black)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.arduino.cc/">
+        <img src="https://skillicons.dev/icons?i=arduino" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.dev-cpp.com/">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="30" height="30"/>
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="30" height="30"/>
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Git
+    </td>
+        <td align="center" width="96">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="30" height="30"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.jetbrains.com/idea/download/?section=windows">
+        <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Intellij
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com/">
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.javascript.com/">
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="30" height="30"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/docs">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="30" height="30"/>
+      </a>
+      <br>VSCode
+    </td>
+  </tr>
+</table>
 
 ---
 
