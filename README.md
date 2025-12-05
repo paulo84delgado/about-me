@@ -76,8 +76,8 @@
 
 ---
 
-
 ## 📊 Estatísticas e Desempenho no GitHub
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paulo84delgado&theme=darkhub" alt="Troféus do GitHub"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
