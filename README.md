@@ -73,6 +73,8 @@
     <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="50" height="50/>
   </a>
 </p>
+      
+---
 
 ---
 
@@ -167,6 +169,7 @@
 
 ---
 
+
 ## 💻 Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
@@ -195,6 +198,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An4PDM/An4PDM/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/An4PDM/An4PDM/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 
 
 
