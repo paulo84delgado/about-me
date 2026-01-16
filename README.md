@@ -76,6 +76,8 @@
       
 ---
 <br><br>
+---
+
 ## 📊 Estatísticas e Desempenho no GitHub
 <p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -190,7 +192,7 @@
 
 ## 📌 Projetos em Destaque [Em Construção] 👷
 
-Primeiro Site em HTML/CSS: https://paulo84delgado.github.io/craftmaniacos-home-page/
+- Primeiro Site em HTML/CSS: https://paulo84delgado.github.io/craftmaniacos-home-page/
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An4PDM/An4PDM/output/github-contribution-grid-snake-dark.svg">
