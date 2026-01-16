@@ -28,7 +28,7 @@
 ---
 
 ## 🔗 Conecte-se comigo:
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <a href="https://web.dio.me/users/paulo84delgado">
@@ -78,6 +78,7 @@
   </tr>
 </table>
 
+
 ---
 
 
@@ -88,6 +89,7 @@
 </p>
 
 ---
+
 
 ## 📚 Projetos e estudos em andamento
 🔸 Curso Bootcamp Java & QA Developer – Digital Innovation One;<br>
