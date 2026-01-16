@@ -190,6 +190,8 @@
 
 ## 📌 Projetos em Destaque [Em Construção] 👷
 
+Primeiro Site em HTML/CSS: https://paulo84delgado.github.io/craftmaniacos-home-page/
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An4PDM/An4PDM/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/An4PDM/An4PDM/output/github-contribution-grid-snake.svg">
