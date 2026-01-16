@@ -140,8 +140,6 @@
       </a>
       <br>Java
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.javascript.com/">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="30" height="30"/>
@@ -154,7 +152,7 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <p align="center" width="96">
       <a href="https://code.visualstudio.com/docs">
         <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="30" height="30"/>
       </a>
@@ -165,6 +163,13 @@
 
 ---
 
+## 📊 Estatísticas e Desempenho no GitHub
+<p align="center">
+  <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo84delgado&layout=compact&langs_count=16&theme=dark"/>
+</p>
+
+---
 
 ## 💻 Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
