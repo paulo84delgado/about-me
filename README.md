@@ -11,7 +11,7 @@
 
 📍 <i>(Votorantim, SP - Brasil)</i>
 
----
+
 
 ✨ **Aluno** na [DIO](https://dio.me).
 <br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br>
@@ -25,7 +25,7 @@
 - 🎓 Aprendiz em Mecânica de Autos pelo [Senai "Gaspar Ricardo Junior"](https://sp.senai.br/unidade/sorocaba/)
 - 🚀 [Meu Portfólio](https://github.com/paulo84delgado)
 
----
+
 
 ## 🔗 Conecte-se comigo:
 <br>
@@ -79,7 +79,7 @@
   </tr>
 </table>
 <br>
----
+
 
 ## 📊 Estatísticas e Desempenho no GitHub
 <br>
@@ -88,7 +88,8 @@
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo84delgado&layout=compact&langs_count=16&theme=dark"/>
 </p>
 <br>
----
+
+
 
 
 ## 📚 Projetos e estudos em andamento
@@ -96,7 +97,8 @@
 🔸 Curso Bootcamp Java & QA Developer – Digital Innovation One;<br>
 🔸 English – SEDA College; 
 <br>
----
+
+
 
 ## 🛠️ Ferramentas e Linguagens
 <table align="center">
