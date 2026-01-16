@@ -28,7 +28,6 @@
 
 
 ## 🔗 Conecte-se comigo:
-<br>
 <table>
   <tr>
     <td align="center">
@@ -73,12 +72,12 @@
     </td>
     <td align="center">
       <a href="https://x.com/paulo84delgado">
-        <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="40" height="40/><br>
+        <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="40" height="40/>
       </a>
     </td>
   </tr>
 </table>
-<br>
+
 
 
 
