@@ -28,7 +28,7 @@
 ---
 
 ## 🔗 Conecte-se comigo:
-<p>
+<br>
 <table>
   <tr>
     <td align="center">
@@ -78,24 +78,24 @@
     </td>
   </tr>
 </table>
-</p>
-
+<br>
 ---
 
-
 ## 📊 Estatísticas e Desempenho no GitHub
+<br>
 <p align="center">
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo84delgado&layout=compact&langs_count=16&theme=dark"/>
 </p>
-
+<br>
 ---
 
 
 ## 📚 Projetos e estudos em andamento
+<br>
 🔸 Curso Bootcamp Java & QA Developer – Digital Innovation One;<br>
 🔸 English – SEDA College; 
-
+<br>
 ---
 
 ## 🛠️ Ferramentas e Linguagens
