@@ -28,6 +28,7 @@
 ---
 
 ## 🔗 Conecte-se comigo:
+<p>
 <table>
   <tr>
     <td align="center">
@@ -77,7 +78,7 @@
     </td>
   </tr>
 </table>
-
+</p>
 
 ---
 
