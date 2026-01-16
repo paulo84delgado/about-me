@@ -75,8 +75,11 @@
 </p>
       
 ---
+
 <br><br>
+
 ---
+
 <br><br>
 
 ## 📊 Estatísticas e Desempenho no GitHub
