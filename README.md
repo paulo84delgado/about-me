@@ -72,7 +72,7 @@
   <a href="https://x.com/paulo84delgado">
     <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="50" height="50/>
   </a>
-</p>
+</p> <br>
       
 ---
 
