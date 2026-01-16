@@ -91,13 +91,13 @@
 
 
 
-
+<p align="left">
 ## 📚 Projetos e estudos em andamento
 <br>
 🔸 Curso Bootcamp Java & QA Developer – Digital Innovation One;<br>
 🔸 English – SEDA College; 
 <br>
-
+</p>
 
 
 ## 🛠️ Ferramentas e Linguagens
