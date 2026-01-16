@@ -28,36 +28,56 @@
 
 
 ## 🔗 Conecte-se comigo:
-    <p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
       <a href="https://web.dio.me/users/paulo84delgado">
-        <img src="https://github.com/paulo84delgado/about-me/blob/main/dio.png" alt="dio" width="50" height="50/>
-      </a>&#8287;&#8287;&#8287;&#8287;&#8287;
+        <img src="https://github.com/paulo84delgado/about-me/blob/main/dio.png" alt="dio" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://discord.com/users/paulo84delgado">
+        <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="96">
       <a href="https://www.facebook.com/paulodelgadooliveira">
-        <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="50" height="50/>
+        <img src="https://github.com/paulo84delgado/about-me/blob/main/facebook.png" alt="facebook" width="50" height="50"/>
       </a>
+    </td>
+    <td align="center" width="96">
       <a href="mailto:paulo84delgado@gmail.com">
-        <img src="https://github.com/paulo84delgado/about-me/blob/main/facebook.png" alt="facebook" width="50" height="50/>
+        <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="50" height="50"/>
       </a>
-      <a href="mailto:paulo84delgado@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="50" height="50/>
-      </a>
+    </td>
+    <td align="center" width="96">
       <a href="https://www.instagram.com/paulo84delgado">
-        <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="50" height="50/>
+        <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="50" height="50"/>
       </a>
+    </td>
+    <td align="center" width="96">
       <a href="https://www.linkedin.com/in/paulo84delgado/">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" height="50/>
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" height="50"/>
       </a>
+    </td>
+    <td align="center" width="96">
       <a href="https://t.me/paulo84delgado">
-        <img src="https://github.com/paulo84delgado/about-me/blob/main/telegram.png" alt="telegram" width="50" height="50/>
+        <img src="https://github.com/paulo84delgado/about-me/blob/main/telegram.png" alt="telegram" width="50" height="50"/>
       </a>
+    </td>
+    <td align="center" width="96">
       <a href="https://wa.me/5515997643128">
-        <img src="https://github.com/paulo84delgado/about-me/blob/main/whatsapp.jpg" alt="whatsapp" width="50" height="50/>
+        <img src="https://github.com/paulo84delgado/about-me/blob/main/whatsapp.jpg" alt="whatsapp" width="50" height="50"/>
       </a>
+    </td>
+    <td align="center" width="96">
       <a href="https://x.com/paulo84delgado">
-        <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="50" height="50/>
+        <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="50" height="50"/>
       </a>
-    </p>
-
+    </td>
+  </tr>
+</table>
+            
 ---
 
 ## 📚 Projetos e estudos em andamento:
