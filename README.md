@@ -77,7 +77,9 @@
 </td>
 </tr>
 </table>
-      
+
+---
+
 ---
 
 ## 📊 Estatísticas e Desempenho no GitHub
