@@ -76,8 +76,6 @@
       
 ---
 
----
-
 ## 📊 Estatísticas e Desempenho no GitHub
 <p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
