@@ -16,7 +16,7 @@
 ✨ **Aluno** na [DIO](https://dio.me).
 <br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br>
 
-🏢 **Atuação Profissional**
+🏢 <h3>Atuação Profissional</h3>
 - 🚀 Atuo como Engenheiro PDM na [Flex](https://flex.com/)
 - 🎓 Bacharel em Engenharia de Controle e Automação pela [Faculdade Pitágoras](https://www.pitagoras.com.br/)
 - 🎓 Bacharel em Tecnologia em Fabricação Mecânica pela [FATEC Sorocaba](https://fatecsorocaba.cps.sp.gov.br/)
