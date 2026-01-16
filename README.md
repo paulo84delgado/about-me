@@ -28,58 +28,53 @@
 
 
 ## 🔗 Conecte-se comigo:
-<table>
-  <tr>
-    <td align="center">
+    <p align="center">
       <a href="https://web.dio.me/users/paulo84delgado">
         <img src="https://github.com/paulo84delgado/about-me/blob/main/dio.png" alt="dio" width="40" height="40/>
       </a>
-    </td>
-    <td align="center">
+    </p>
+    <p align="center">
       <a href="https://www.facebook.com/paulodelgadooliveira">
         <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40/>
       </a>
-    </td>
-    <td align="center">
+    </p>
+    <p align="center">
       <a href="mailto:paulo84delgado@gmail.com">
         <img src="https://github.com/paulo84delgado/about-me/blob/main/facebook.png" alt="facebook" width="40" height="40/>
       </a>
-    </td>
-    <td align="center">
+    </p>
+    <p align="center">
       <a href="mailto:paulo84delgado@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40/>
       </a>
-    </td>
-    <td align="center">
+    </p>
+    <p align="center">
       <a href="https://www.instagram.com/paulo84delgado">
         <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="40/>
       </a>
-    </td>
-    <td align="center">
+    </p>
+    <p align="center">
       <a href="https://www.linkedin.com/in/paulo84delgado/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40/>
       </a>
-    </td>
-    <td align="center">
+    </p>
+    <p align="center">
       <a href="https://t.me/paulo84delgado">
         <img src="https://github.com/paulo84delgado/about-me/blob/main/telegram.png" alt="telegram" width="40" height="40/>
       </a>
-    </td>
-    <td align="center">
+    </p>
+    <p align="center">
       <a href="https://wa.me/5515997643128">
         <img src="https://github.com/paulo84delgado/about-me/blob/main/whatsapp.jpg" alt="whatsapp" width="40" height="40/>
       </a>
-    </td>
-    <td align="center">
+    </p>
+    <p align="center">
       <a href="https://x.com/paulo84delgado">
         <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="40" height="40/>
       </a>
-    </td>
-  </tr>
-</table>
+    </p>
 
-
-
+---
 
 ## 📚 Projetos e estudos em andamento
 <br>
