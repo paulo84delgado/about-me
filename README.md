@@ -73,7 +73,7 @@
     </td>
     <td align="center">
       <a href="https://x.com/paulo84delgado">
-        <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="40" height="40/>
+        <img src="https://github.com/paulo84delgado/about-me/blob/main/x.png" alt="x" width="40" height="40/><br>
       </a>
     </td>
   </tr>
@@ -90,14 +90,11 @@
 <br>
 
 
-
-<p align="left">
 ## 📚 Projetos e estudos em andamento
 <br>
 🔸 Curso Bootcamp Java & QA Developer – Digital Innovation One;<br>
 🔸 English – SEDA College; 
 <br>
-</p>
 
 
 ## 🛠️ Ferramentas e Linguagens
