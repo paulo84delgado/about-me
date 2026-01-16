@@ -16,7 +16,7 @@
 ✨ **Aluno** na [DIO](https://dio.me).
 <br>🌱 Iniciante na área de TI.<br>🔭 Buscando conhecimento no ramo. <br>
 
-🏢 <h3>Atuação Profissional:</h3>
+## 🏢 Atuação Profissional:
 - 🚀 Atuo como Engenheiro PDM na [Flex](https://flex.com/)
 - 🎓 Bacharel em Engenharia de Controle e Automação pela [Faculdade Pitágoras](https://www.pitagoras.com.br/)
 - 🎓 Bacharel em Tecnologia em Fabricação Mecânica pela [FATEC Sorocaba](https://fatecsorocaba.cps.sp.gov.br/)
@@ -27,11 +27,11 @@
 
 
 
-🔗 <h3>Conecte-se comigo:</h3>
+## 🔗 Conecte-se comigo:
     <p align="center">
       <a href="https://web.dio.me/users/paulo84delgado">
         <img src="https://github.com/paulo84delgado/about-me/blob/main/dio.png" alt="dio" width="50" height="50/>
-      </a>
+      </a>&#8287;&#8287;&#8287;&#8287;&#8287;
       <a href="https://www.facebook.com/paulodelgadooliveira">
         <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="50" height="50/>
       </a>
@@ -60,14 +60,13 @@
 
 ---
 
-📚 <h3>Projetos e estudos em andamento:</h3>
-<br>
+## 📚 Projetos e estudos em andamento:
 🔸 Curso Bootcamp Java & QA Developer – Digital Innovation One;<br>
 🔸 English – SEDA College; 
-<br>
 
 
-🛠️ <h3>Ferramentas e Linguagens:</h3>
+
+## 🛠️ Ferramentas e Linguagens:
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -141,7 +140,7 @@
 
 ---
 
-📊 <h3>Estatísticas e Desempenho no GitHub:</h3>
+## 📊 Estatísticas e Desempenho no GitHub:
 <p align="center">
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo84delgado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo84delgado&layout=compact&langs_count=16&theme=dark"/>
@@ -149,12 +148,12 @@
 
 ---
 
-💻 <h3>Sistemas Operacionais:</h3>
+## 💻 Sistemas Operacionais:
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ---
 
-🤓 <h3>Estudando atualmente:</h3>
+## 🤓 Estudando atualmente:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -162,15 +161,15 @@
 
 ---
 
-🤔 <h3>Soft Skills:</h3>
+## 🤔 Soft Skills:
 ![Organizado](https://img.shields.io/badge/Organizado-black) ![Produtivo](https://img.shields.io/badge/Produtivo-darkblue)  ![Próativo](https://img.shields.io/badge/Próativo-black) ![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-darkblue) ![Resolução de Problemas](https://img.shields.io/badge/Resolução%20de%20Problemas-black) ![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-darkblue) 
 
 ---
 
-🤝 <h3>Minhas Contribuições:</h3>
+## 🤝 Minhas Contribuições:
 
 
-📌 <h3>Projetos em Destaque:[Em Construção]</h3> 👷
+## 📌 Projetos em Destaque:[Em Construção] 👷
 
 - Primeiro Site em HTML/CSS: https://paulo84delgado.github.io/craftmaniacos-home-page/
 
